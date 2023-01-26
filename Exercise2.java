@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class Exercise2 {
 
     static Scanner scan = new Scanner(System.in);
     static final int targetWeight = 150;
